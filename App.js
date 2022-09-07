@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: 'blue',
-    text: 'Hello world a',
+    text: 'Hello world',
     alignItems: 'center',
     justifyContent: 'center',
   },
